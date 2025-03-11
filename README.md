@@ -1,5 +1,8 @@
 # Redcap Data Purge
 
+> [!NOTE]
+> This repository is archived.
+
 ## Introduction
 
 Tool to purge Redcap database and files directory to just keep data from
